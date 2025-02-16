@@ -1,0 +1,19 @@
+/*Kori Jackson
+ *February 14, 2025
+ * Comp 322 001
+ * This program styles the tables in the JS files
+ */
+table{
+    text-align: center;
+    border: 1px solid black;
+
+    td,tr {
+        border: 1px solid black;
+    }
+    th{
+        border: 1px solid black;
+        background-color: hotpink;
+        color: white;
+        width: 75px;
+    }
+}
